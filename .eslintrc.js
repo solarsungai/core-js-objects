@@ -15,7 +15,4 @@ module.exports = {
     ecmaVersion: 2024,
   },
   noInlineConfig: true,
-  rules: {
-    'prefer-object-spread': 'off',
-  },
 };
