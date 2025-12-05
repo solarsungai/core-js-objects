@@ -379,7 +379,6 @@ function group(array, keySelector, valueSelector) {
  */
 
 const cssSelectorBuilder = {
-
   element(/* value */) {
     throw new Error('Not implemented');
   },
